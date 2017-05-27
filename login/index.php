@@ -1,4 +1,5 @@
 <?php
+//jajal
 session_start();
 require_once("../config/class.login.php");
 
