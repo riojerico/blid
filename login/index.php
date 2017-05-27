@@ -1,5 +1,5 @@
 <?php
-//jajal
+//ja
 session_start();
 require_once("../config/class.login.php");
 
